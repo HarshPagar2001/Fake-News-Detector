@@ -25,4 +25,5 @@ This project uses Machine Learning and Natural Language Processing to detect whe
 Dataset Link: https://drive.google.com/file/d/1IEXBFg64ahPixqHAklcwMsiOcBr3UKHX/view?usp=drive_link
 
 # Usage
+cd Fake-News-Detector
 python app.py
