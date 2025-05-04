@@ -14,7 +14,6 @@ This project uses Machine Learning and Natural Language Processing to detect whe
 - If it shows import errors
 - Go to interpreter option
 - Select version 3.11.0 64-bit
-- it won't show any errors now
 
 # Dataset:
 - Create a folder as "Dataset"
