@@ -13,15 +13,15 @@ This project uses Machine Learning and Natural Language Processing to detect whe
 # Import
 - If it shows import errors
 - Go to "fake-news-detection\venv\Scripts\python.exe" and copy the path
-- Go to interpreter option at bottom right and paste the path
-- Hit enter to set the interpreter
+- Go to interpreter option
+- Select version 3.11.0 64-bit
 - it won't show any errors now
 
 # Dataset:
 - Create a folder as "Dataset"
 - Go to the link and download the dataset
 - Put the dataset inside the "Dataset" folder
-- The dataset path is already set as "Dataset/News.csv"
+- Dataset path is already set as "Dataset/News.csv"
 
 # Download Dataset:
 Dataset Link: https://drive.google.com/file/d/1IEXBFg64ahPixqHAklcwMsiOcBr3UKHX/view?usp=drive_link
