@@ -12,7 +12,6 @@ This project uses Machine Learning and Natural Language Processing to detect whe
 
 # Import
 - If it shows import errors
-- Go to "fake-news-detection\venv\Scripts\python.exe" and copy the path
 - Go to interpreter option
 - Select version 3.11.0 64-bit
 - it won't show any errors now
