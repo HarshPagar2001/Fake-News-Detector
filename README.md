@@ -11,6 +11,7 @@ This project uses Machine Learning and Natural Language Processing to detect whe
 - Trains a Logistic Regression model to classify news
 
 # How to install requirements
+- Open the project in VS Code
 - Go to interpreter option
 - Select version 3.11.0 64-bit
 - Install pip
@@ -32,4 +33,4 @@ Dataset Link: https://drive.google.com/file/d/1IEXBFg64ahPixqHAklcwMsiOcBr3UKHX/
 - python app.py
 
 # Alternate
-Project Link: https://drive.google.com/file/d/1IEXBFg64ahPixqHAklcwMsiOcBr3UKHX/view?usp=drive_link
+Project Link: https://drive.google.com/file/d/19N7WqyZnEdDERhV4iTakt0seJgVEiCl7/view?usp=drive_link
