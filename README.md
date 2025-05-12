@@ -40,5 +40,5 @@ Dataset Link: https://drive.google.com/file/d/1IEXBFg64ahPixqHAklcwMsiOcBr3UKHX/
 # Google Colab
 - Copy and Paste the code
 - Import dataset
-- Add dataset path
+- Edit dataset path
 - Run the project
